@@ -1,0 +1,1 @@
+INSERT INTO public.token (id,reference,token_batch_id,valid_from,valid_to,token_status_id,created_by) VALUES (DEFAULT,'abc123',3,'2018-11-13','2018-11-13',1,1);
